@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitaliy</h1>
 <h3 align="center">A Unity developer from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dest-69&label=Profile%20views&color=0e75b6&style=flat" alt="dest-69" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dest-69&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="dest-69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dest-69&theme=radical" alt="dest-69" /></a> </p>
 
@@ -12,6 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vetal-popovetskiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vetal-popovetskiy" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15553355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15553355" height="30" width="40" /></a>
+<a href="https://instagram.com/dest__69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dest__69" height="30" width="40" /></a>
+<a href="https://discord.gg/tEshaKae4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tEshaKae4u" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
