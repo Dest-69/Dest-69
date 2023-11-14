@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vitaliy</h1>
 <h3 align="center">A Unity developer from Ukraine</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dest-69&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="dest-69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dest-69&theme=radical" alt="dest-69" /></a> </p>
