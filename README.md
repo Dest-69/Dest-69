@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dest-69&theme=radical" alt="dest-69" /></a> </p>
 
-- 🔭 I’m currently working as TechLead in **Funtico**
+- 🔭 I’m currently working as TechLead in [**Funtico**](https://funtico.com/)
 
 - 📫 How to reach me **vetalpopovetskiy@gmail.com**
 
